@@ -4,6 +4,15 @@ Very fast node-only uuid v4 (random) generator.
 This library is not intended to be published to npm instead just copy it into
 your code.
 
+# Usage
+
+```javascript
+const uuid = require('./uuid.js')();
+
+const id = uuid();
+
+```
+
 # Background
 When using unique ID:s generated using https://github.com/broofa/node-uuid I
 decided that I might as well pull in the code for the uuid v4 generation instead
