@@ -1,0 +1,12 @@
+{
+  "name": "node-uuid-v4",
+  "version": "1.0.0",
+  "description": "Very fast node-only uuid v4 (random) generator",
+  "main": "uuid.js",
+  "repository": "johnsusi/node-uuid-v4",
+  "keywords": [ "node", "uuid" ],
+  "author": "John Susi <john@susi.se> (https://github.com/johnsusi/)",
+  "license": "MIT",
+  "bugs": "https://github.com/johnsusi/node-uuid-v4/issues",
+  "homepage": "https://github.com/johnsusi/node-uuid-v4#readme"
+}
