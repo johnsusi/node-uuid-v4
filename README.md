@@ -88,6 +88,7 @@ Now for the final boost: Allocating random numbers in larger chunks gives a
 massive optimisation!
 
 ```javascript
+const n = 768;
 let b, i = n;
 
 const rnd = () => {
